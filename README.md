@@ -68,6 +68,4 @@ teams work in modern companies.
 
 Using both tools together matches how
 real analytics teams work in companies! 🎉
-
-Using both tools together matches how 
-real analytics teams work in companies! 🎉
+ 
